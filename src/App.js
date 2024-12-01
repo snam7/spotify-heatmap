@@ -9,11 +9,10 @@ function App() {
   // Load and process mock Spotify data
   const loadSpotifyData = () => {
     const processedData = generateMockSpotifyData(); // Generate mock data
-    console.log('Mock Data:', processedData); // Debug: Check the mock data
-    setHeatmapData(processedData); // Set the heatmap data
+    console.log('Mock Data:', processedData); 
+    setHeatmapData(processedData); 
   };
 
-  // Group the data by year
   const groupDataByYear = () => {
     return heatmapData.reduce((acc, entry) => {
       const year = entry.month.split('-')[0];
