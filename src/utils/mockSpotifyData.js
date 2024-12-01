@@ -23,8 +23,6 @@ export const generateMockSpotifyData = () => {
     { name: 'Alag Aasmaan', artist: 'Anuv Jain' },
     { name: 'Gul', artist: 'Anuv Jain' },
     { name: 'Mishri', artist: 'Anuv Jain' },
-
-    // More Hindi Songs
     { name: 'Bekhayali', artist: 'Sachet Tandon' },
     { name: 'Dil Dhadakne Do', artist: 'Farhan Akhtar, Priyanka Chopra' },
     { name: 'Tera Yaar Hoon Main', artist: 'Arijit Singh' },
