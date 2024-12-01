@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/spotify-heatmap/static/css/main.fae947fc.css",
+    "main.js": "/spotify-heatmap/static/js/main.20407db0.js",
+    "index.html": "/spotify-heatmap/index.html",
+    "main.fae947fc.css.map": "/spotify-heatmap/static/css/main.fae947fc.css.map",
+    "main.20407db0.js.map": "/spotify-heatmap/static/js/main.20407db0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fae947fc.css",
+    "static/js/main.20407db0.js"
+  ]
+}
